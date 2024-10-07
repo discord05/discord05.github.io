@@ -1,0 +1,32 @@
+.error-page {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.error-page h1 {
+    font-size: 100px;
+    margin: 0;
+    color: #ff4d4d; /* Color rojo para el número 404 */
+}
+
+.error-page h2 {
+    font-size: 30px;
+}
+
+.error-page p {
+    font-size: 18px;
+}
+
+.navigation {
+    margin-top: 20px;
+}
+
+.navigation a {
+    margin: 0 15px;
+    text-decoration: none;
+    color: #007bff;
+}
+
+.navigation a:hover {
+    text-decoration: underline;
+}
